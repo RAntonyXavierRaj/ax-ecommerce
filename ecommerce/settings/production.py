@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'tags',
     'carts',
     'orders',
+    # Third party
+    'storages',
 
 
 ]

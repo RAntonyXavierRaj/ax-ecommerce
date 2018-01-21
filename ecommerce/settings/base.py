@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'tags',
     'carts',
     'orders',
+    # Third party
+    'storages',
 
 
 ]
@@ -144,3 +146,8 @@ CSRF_COOKIE_SECURE              = False
 SECURE_HSTS_SECONDS             = None
 SECURE_HSTS_INCLUDE_SUBDOMAINS  = False
 SECURE_FRAME_DENY               = False
+
+AWS_GROUP_NAME = "ax_ecommerce_group"
+AWS_USERNAME = "ax-ecommerce-user"
+AWS_ACCESS_KEY_ID = "AKIAJZB4E2ORGPOX52HQ"
+AWS_SECRET_KEY = "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"

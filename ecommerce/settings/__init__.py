@@ -6,7 +6,3 @@ try:
 except:
     pass
 
-try:
-    from .local_ax import *
-except:
-    pass
