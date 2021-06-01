@@ -24,4 +24,4 @@ s3transfer==0.1.12
 six==1.11.0
 smmap2==2.0.3
 stripe==1.77.1
-urllib3==1.22
+urllib3==1.26.5
