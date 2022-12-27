@@ -15,7 +15,7 @@ psycopg2==2.7.3.2
 python-dateutil==1.5
 pytz==2017.3
 requests==2.18.4
-setuptools==38.4.0
+setuptools==65.5.1
 smmap2==2.0.3
 stripe==1.77.1
 urllib3==1.22
